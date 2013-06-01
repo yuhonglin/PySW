@@ -1,3 +1,12 @@
+/**
+ * @file   swalign.cpp
+ * @author yuhonglin <yuhonglin1986@gmail.com>
+ * @date   Sat Jun  1 18:59:04 2013
+ * 
+ * @brief  The implementation of Smith-Waterman Algorithm
+ * 
+ * 
+ */
 #include "swalign.h"
 #include <iostream>
 

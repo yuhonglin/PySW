@@ -1,3 +1,13 @@
+/**
+ * @file   sw.cpp
+ * @author yuhonglin <yuhonglin1986@gmail.com>
+ * @date   Sat Jun  1 19:00:39 2013
+ * 
+ * @brief  wrap the algorithm into a python package
+ * 
+ * 
+ */
+
 #include <Python.h>  
 #include "swalign.h"
 CSWAlign *_align;

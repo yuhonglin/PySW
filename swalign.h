@@ -1,3 +1,12 @@
+/**
+ * @file   swalign.h
+ * @author yuhonglin <yuhonglin1986@gmail.com>
+ * @date   Sat Jun  1 18:59:55 2013
+ * 
+ * @brief  The declaration of the Smith-Waterman Algorithm class
+ * 
+ * 
+ */
 #ifndef SWALIGN_H
 #define SWALIGN_H
 #include <list>
